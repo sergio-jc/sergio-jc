@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **sergiojara0609@gmail.com**
 
-- 📄 See more about me in [my CV](https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view)
-
+- 📄 See more about me in <a href="https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view" target="_blank">my Curriculum</a>
+                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/secio_jc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="secio_jc" height="30" width="40" /></a>
