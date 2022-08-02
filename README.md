@@ -1,4 +1,4 @@
-### Hi there ROnaldoo 👋
+<h1 align="center">Hi 👋, I'm Ronaldo Jara</h1>
 
 <!--
 **sergio-jc/sergio-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
