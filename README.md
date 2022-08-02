@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sergiojara0609@gmail.com**
 
-- 📄 See more about me in my CV [https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view?usp=sharing](https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view?usp=sharing)
+- 📄 See more about me in [my CV](https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view?usp=sharing](https://drive.google.com/file/d/1mWO_LIueBWcs3_TLnYhOXgTfLM83S8Nt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [#############](#############) ------------------->
 
 
--->
+
