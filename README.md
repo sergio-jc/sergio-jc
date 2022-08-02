@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **New technologies for my development as a developer front end**
 
-- 👨‍💻 All of my projects are available at [#############](#############)
-
 - 💬 Ask me about **My projects in React, TypeScript and more**
 
 - 📫 How to reach me **sergiojara0609@gmail.com**
@@ -30,7 +28,7 @@
 **sergio-jc/sergio-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👨‍💻 All of my projects are available at [#############](#############) ------------------->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
