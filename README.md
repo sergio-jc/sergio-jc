@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Jara</h1>
+<h3 align="center">A passionate Front End developer</h3>
+- 👨‍💻 All of my projects are available at [sergio-jc](sergio-jc)
+
+- 📫 How to reach me **sergiojara0609@gmail.com**
+
+- ⚡ Fun fact **I like to sleep**
 
 <!--
 **sergio-jc/sergio-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
