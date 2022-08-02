@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **New technologies for my development as a developer front end**.
 
-- 💬 Ask me about **React, JavaScript, TypeScript , Sass , Redux , Redux Toolkit , and more**.
+- 💬 Ask me about whatever you want, I'm open to help or share.
 
 - 📫 How to reach me **sergiojara0609@gmail.com**
 
