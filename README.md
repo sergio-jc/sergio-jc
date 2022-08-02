@@ -1,4 +1,4 @@
-Hi 👋, I'm Ronaldo Jara
+**Hi 👋, I'm Ronaldo Jara**
 ![Hi, I'm Ronaldo](https://github.com/sergio-jc/sergio-jc/blob/main/assets/hi.gif)
 <h1 align="center">You can call me Secio</h1>
 <h3 align="center">A passionate frontend developer</h3>
