@@ -24,9 +24,9 @@
 
 <!--
 **sergio-jc/sergio-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 I’m currently working on [My personal proyects](############)
 Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [#############](#############) ------------------->
-- 🔭 I’m currently working on [My personal proyects](############)
+
 
 -->
