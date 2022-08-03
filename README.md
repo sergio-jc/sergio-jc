@@ -1,10 +1,10 @@
 ![Hi, I'm Ronaldo](https://github.com/sergio-jc/sergio-jc/blob/main/assets/hi.gif)
 
+<h1 align="center">Hi 👋, I'm Ronaldo Jara</h1>
+
 &nbsp;
 
 ## :pushpin: About me
-
-<h3 align="center">A passionate frontend developer</h3>
 
 ```javascript
 const aboutMe = {
@@ -23,7 +23,8 @@ const aboutMe = {
    currentOccupation: ["Freelance web developer"],
 };
 ```
-<h1 align="center">Hi 👋, I'm Ronaldo Jara</h1>
+
+<h3 align="center">A passionate frontend developer</h3>
 
 <p>Hello again, I introduce myself, I am a Full Stack Wed Developer, with a focus on the Front End area, I have previous training as a Software Engineer, and have various knowledge in different technologies such as React, Redux, TypeScript, Sass, etc.. I try to always keep up to date in an industry that is constantly changing, with the latest trends in the TECH world. In my profile you can see different of my group and personal projects so I invite you to see them. Welcome to my profile!</p>
 
