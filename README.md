@@ -9,7 +9,7 @@
 <!---## :pushpin: About me -->
 
 ```javascript
-const frontEnd = {
+const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
