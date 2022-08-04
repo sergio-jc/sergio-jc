@@ -27,7 +27,7 @@ const aboutMe = {
 ```
 
 # 💫 About Me:
-Hello again, I introduce myself, I am a Full Stack Wed Developer, with a focus on the Front End area, I have previous training as a Software Engineer, and have various knowledge in different technologies such as React, Redux, TypeScript, Sass, etc.. I try to always keep up to date in an industry that is constantly changing, with the latest trends in the TECH world. In my profile you can see different of my group and personal projects so I invite you to see them. Welcome to my profile!<br><br>🌱 I am currently learning new technologies for my development as a front end developer.<br><br>💬 Ask me about whatever you want, I'm open to help or share.<br><br>📫 How to reach me sergiojara0609@gmail.com<br><br>📄 See more about me in my Curriculum
+Hello again, I introduce myself, I am a Full Stack Wed Developer, with a focus on the Front End area, I have previous training as a Software Engineer, and have various knowledge in different technologies such as React, Redux, TypeScript, Sass, etc.. I try to always keep up to date in an industry that is constantly changing, with the latest trends in the TECH world. In my profile you can see different of my group and personal projects so I invite you to see them. Welcome to my profile!<br><br>🌱 I am currently learning new technologies for my development as a front end developer.<br><br>💬 Ask me about whatever you want, I'm open to help or share.<br><br>📫 How to reach me sergiojara0609@gmail.com<br><br>📄 See more about me in [my Curriculum](https://drive.google.com/file/d/1urjOi9wUIL_io61pBNY2Rr5ll_MXTYba/view?usp=sharing)
 
 
 ## 🌐 Socials:
