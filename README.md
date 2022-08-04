@@ -4,7 +4,7 @@
 
 &nbsp;
 
-## :pushpin: About me
+<!---## :pushpin: About me -->
 
 ```javascript
 const aboutMe = {
