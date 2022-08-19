@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ronaldo Jara</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer ❤️ from Peru to 🌎</h3>
 
 &nbsp;
 
