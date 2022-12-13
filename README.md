@@ -22,7 +22,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PostgreSQL"],
    },
-   currentOccupation: ["Freelance web developer"],
+   currentOccupation: ["Frontend Developer"],
 };
 ```
 
