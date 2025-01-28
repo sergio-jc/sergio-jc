@@ -1,10 +1,10 @@
 <!-- ![Hi, I'm Ronaldo](https://github.com/sergio-jc/sergio-jc/blob/main/assets/hi.gif) -->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ronaldo Jara</h1>
+<!--<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ronaldo Jara</h1>-->
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ronaldo Jara</h1>
+<!--<h3 align="center">Full Stack Developer ❤️</h3>
+&nbsp;-->
 
-<h3 align="center">Full Stack Developer ❤️</h3>
-
-&nbsp;
 
 <!---## :pushpin: About me , from Peru to 🌎
 
