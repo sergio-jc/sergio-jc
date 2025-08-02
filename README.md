@@ -8,9 +8,9 @@ I value collaborative environments that promote continuous improvement. I firmly
 
 💬 I’m open to new opportunities. Feel free to reach out if you’re looking for a committed professional to help elevate your projects.
 
-🔸 Email: sergiojara0609@gmail.com
-🔸 LinkedIn : [https://linkedin.com/in/ronaldo-jara](https://www.linkedin.com/in/ronaldo-jara)
-🔸 Portfolio : [https://sergio-jc.vercel.app/](https://sergio-jc.vercel.app/)
+- Email: sergiojara0609@gmail.com
+- LinkedIn : [https://linkedin.com/in/ronaldo-jara](https://www.linkedin.com/in/ronaldo-jara)
+- Portfolio : [https://sergio-jc.vercel.app/](https://sergio-jc.vercel.app/)
 <!--<h3 align="center">Full Stack Developer ❤️</h3>
 &nbsp;-->
 
