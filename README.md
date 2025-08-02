@@ -2,6 +2,15 @@
 
 <!--<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ronaldo Jara</h1>-->
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Ronaldo Jara</h1>
+Frontend Web Developer with over three years of experience building modern, user-focused products powered by artificial intelligence. I’ve contributed to companies like DAWG Motors, LearnAla, and Nawa Method, working closely with CEOs and CTOs to develop and launch high-impact solutions.
+
+I value collaborative environments that promote continuous improvement. I firmly believe that behind every great product is a great team, and I strive to actively contribute to that spirit in every project I take on.
+
+💬 I’m open to new opportunities. Feel free to reach out if you’re looking for a committed professional to help elevate your projects.
+
+🔸 Email: sergiojara0609@gmail.com
+🔸 LinkedIn : [https://linkedin.com/in/ronaldo-jara](https://www.linkedin.com/in/ronaldo-jara)
+🔸 Portfolio : [https://sergio-jc.vercel.app/](https://sergio-jc.vercel.app/)
 <!--<h3 align="center">Full Stack Developer ❤️</h3>
 &nbsp;-->
 
